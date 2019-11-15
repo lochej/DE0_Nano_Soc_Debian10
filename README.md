@@ -73,7 +73,7 @@ Default users:password:
 
 ```
 wget -c https://rcn-ee.com/rootfs/eewiki/minfs/debian-10.1-minimal-armhf-2019-09-16.tar.xz
-tar xf debian-10.1-minimal-armhf-2019-09-07.tar.xz
+tar xf debian-10.1-minimal-armhf-2019-09-16.tar.xz
 ```
 
 Ready to install on the SD Card ! 
