@@ -169,10 +169,10 @@ ip link
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
 2: eth0: <BROADCAST,MULTICAST,DYNAMIC,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DEFAULT group default qlen 1000
-    link/ether ab:cd:ef:01:23:45 brd ff:ff:ff:ff:ff:ff
+    link/ether ab:56:ef:01:23:45 brd ff:ff:ff:ff:ff:ff
 ```
 	
-In this case hte mac address is **ab:cd:ef:01:23:45**. 
+In this case hte mac address is **ab:56:ef:01:23:45**. 
 
 **Of course you have to replace by your MAC address !**
 
